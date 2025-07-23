@@ -6,7 +6,7 @@ Backend has mock runner implementation, which executes pipelines
 
 Frontend has visualization of pipeline with controls
 
-Just a small project I made for fun
+https://github.com/user-attachments/assets/3f510751-8f88-4ac4-a609-7ef995292583
 
 # Fast start
  
